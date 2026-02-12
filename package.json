@@ -1,0 +1,17 @@
+{
+  "name": "client-capture-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js web app for capturing and storing client data in SQLite",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "sqlite",
+    "clients"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
